@@ -1,1 +1,5 @@
-hii
+
+Used -> Fashion MNIST Dataset from Keras😊
+
+Final Output:
+<img src="Figure_1.png"/>
